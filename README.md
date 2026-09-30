@@ -1,11 +1,7 @@
 
 # Hi, I'm Jake
 
-I'm a software developer with experience in **frontend development, enterprise integrations, and customer-support platforms**. My professional work has included Zendesk customisation, API integrations, automation, and the development of community-support interfaces.
-
-Outside of my professional work, I develop JavaScript plugins and gameplay systems for **RPG Maker MV**, exploring engine extensibility, artificial intelligence, visual effects, and event-driven programming.
-
-I'm using GitHub to document my technical experience, publish reusable tools, and demonstrate how I approach engineering problems across different environments.
+I'm a software developer with experience in **frontend development, enterprise integrations, and customer-support platforms**. My professional work has included Zendesk, Jitterbit, API integrations, automation, and the development of community-support interfaces. Outside of my professional work, I have explored artificial intelligence, visual effects, and event-driven programming.
 
 ##  Technologies I've worked with
 
