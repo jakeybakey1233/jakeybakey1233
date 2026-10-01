@@ -31,5 +31,3 @@ The RPG Maker toolkit contains generalized implementations and adaptations of sy
 - **Cinematic systems:** Scripted sequences, event orchestration, dialogue presentation and synchronised visual effects.
 - **Gameplay mechanics:** Configurable status effects, item interactions and persistent gameplay state.
 - **Engineering practices:** Modular plugin architecture, configurable parameters, documentation and automated tests.
-
-Thanks for visiting!
