@@ -17,7 +17,7 @@ I'm a software developer with experience in **frontend development, enterprise i
 | --- | --- |
 | [Community Hub demo](https://github.com/jakeybakey1233/community-hub-demo) | Search, audience filtering, responsive design, accessible controls and client-side favourites. |
 | [Zendesk integration demo](https://github.com/jakeybakey1233/zendesk-integration-demo) | Paginated ticket retrieval, PS256 JWT signing, mock RESTlet processing, retries and structured logging. |
-| [RPG Maker MV Toolkit](https://github.com/jakeybakey1233/rpg-maker-mv-toolkit) | Reusable JavaScript plugins covering AI pathfinding, procedural visual effects, cinematic orchestration, configurable gameplay mechanics and engine extensibility. |
+## | [RPG Maker MV Toolkit](https://github.com/jakeybakey1233/rpg-maker-mv-toolkit) | Reusable JavaScript plugins covering AI pathfinding, procedural visual effects, cinematic orchestration, configurable gameplay ## mechanics and engine extensibility. |
 
 The public toolkit includes work involving:
 
