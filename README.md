@@ -19,20 +19,17 @@ I'm a software developer with experience in **frontend development, enterprise i
 | [Zendesk integration demo](https://github.com/jakeybakey1233/zendesk-integration-demo) | Paginated ticket retrieval, PS256 JWT signing, mock RESTlet processing, retries and structured logging. |
 | [RPG Maker MV Toolkit](https://github.com/jakeybakey1233/rpg-maker-mv-toolkit) | Reusable JavaScript plugins covering AI pathfinding, procedural visual effects, cinematic orchestration, configurable gameplay ## mechanics and engine extensibility. |
 
-- **Artificial intelligence:** Pathfinding, pursuit behaviour and interactive enemy encounters.
-- **Visual effects:** Procedural atmospheric effects, animated battle backgrounds, shaders and camera manipulation.
-- **Cinematic systems:** Scripted sequences, event orchestration, dialogue presentation and synchronised visual effects.
-- **Gameplay mechanics:** Configurable status effects, item interactions and persistent gameplay state.
-- **Engineering practices:** Modular plugin architecture, configurable parameters, documentation and automated tests.
-
-The repository separates these systems from my original game, using generic examples and stock RPG Maker assets where applicable.
-
 ### About these projects
 
 These repositories contain independent, AI-assisted portfolio work and demonstrations.
 
 The Community Hub and Zendesk integration projects reconstruct technical concepts relevant to my professional experience using fictional data. They contain no employer-owned code and are not official products.
 
-The RPG Maker toolkit contains generalized implementations and adaptations of systems developed for my personal game, alongside supporting demonstrations and documentation.
+The RPG Maker toolkit contains generalized implementations and adaptations of systems developed for my personal game, alongside supporting demonstrations and documentation. Including:
+- **Artificial intelligence:** Pathfinding, pursuit behaviour and interactive enemy encounters.
+- **Visual effects:** Procedural atmospheric effects, animated battle backgrounds, shaders and camera manipulation.
+- **Cinematic systems:** Scripted sequences, event orchestration, dialogue presentation and synchronised visual effects.
+- **Gameplay mechanics:** Configurable status effects, item interactions and persistent gameplay state.
+- **Engineering practices:** Modular plugin architecture, configurable parameters, documentation and automated tests.
 
 Thanks for visiting!
